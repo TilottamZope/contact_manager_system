@@ -1,0 +1,112 @@
+{
+  "contacts": [
+    {
+      "id": "24c4",
+      "name": "Ankita Kolhe",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxQsKPal6ph5ZV8Q3Rw_-eqAwuDfXF33Hk988jGUMNN3oh12d2B7iMBWj8Ir_u9mWV1bs&usqp=CAU",
+      "contact": "8989898989",
+      "email": "ankitakolhe2001@gmail.com",
+      "company": "HCl",
+      "title": "Software Testing",
+      "groupId": "Friend"
+    },
+    {
+      "id": "e5a9",
+      "name": "Mohini Zope",
+      "photo": "https://w7.pngwing.com/pngs/822/699/png-transparent-teacher-female-woman-girl-avatar-anonymous-unknown-person-thumbnail.png",
+      "contact": "9999999999",
+      "email": "mohini123@gmail.com",
+      "company": "InfoTech ",
+      "title": "Cloud analyst",
+      "groupId": "Family"
+    },
+    {
+      "id": "6080",
+      "name": "Umesh Zope",
+      "photo": "https://www.shareicon.net/data/512x512/2016/05/24/770139_man_512x512.png",
+      "contact": "9422853424",
+      "email": "umeshzopw1997@gmail.com",
+      "company": "Simplify HeathCare ",
+      "title": "Senior Cloud Anaylst",
+      "groupId": "Social"
+    },
+    {
+      "id": "b11e",
+      "name": "Punam Patil",
+      "photo": "https://png.pngtree.com/png-clipart/20190516/original/pngtree-cute-girl-avatar-material-png-image_4023832.jpg",
+      "contact": "9876589760",
+      "email": "punampatil12345@gmail.com",
+      "company": "Tata Motors",
+      "title": "Manufacturing",
+      "groupId": "Family"
+    },
+    {
+      "id": "65ff",
+      "name": "Dipak Rane",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZRH2GIDf-HQWTDQt-9QrrdlSFvksGHS6FHQ&usqp=CAU",
+      "contact": "7058100463",
+      "email": "dipakrane1999@gmail.com",
+      "company": "IT Solution ",
+      "title": "Software Testing",
+      "groupId": "Social"
+    },
+    {
+      "id": "fb96",
+      "name": "Udhav Rane",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp7hq1K9y4BZrqYV7tOGwRSAnuNs9fRBZArw&usqp=CAU",
+      "contact": "7020082572",
+      "email": "udhavrane1996@gmail.com",
+      "company": "Wipro",
+      "title": "Software Developer",
+      "groupId": "Friend"
+    },
+    {
+      "id": "09b5",
+      "name": "Rushi Kolte",
+      "photo": "https://img.freepik.com/premium-vector/avatar-portrait-young-caucasian-boy-man-round-frame-vector-cartoon-flat-illustration_551425-19.jpg",
+      "contact": "8605083001",
+      "email": "rushikolte2000@gmail.com",
+      "company": "InfoTech ",
+      "title": "Sotware Anyalst",
+      "groupId": "Social"
+    },
+    {
+      "id": "975d",
+      "name": "Nilam Khairnar",
+      "photo": "https://i.pinimg.com/564x/a6/58/32/a65832155622ac173337874f02b218fb.jpg",
+      "contact": "9999999999",
+      "email": "nilamkhairnar2000@gmail.com",
+      "company": "Wipro",
+      "title": "Software Developer",
+      "groupId": "Friend"
+    },
+    {
+      "id": "a00c",
+      "name": "Durvank Bhangale",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR4rV4v_I7e5VsljbHwmmJzNtTnmzFergVTJi8wy3g9A&s",
+      "contact": "7412589630",
+      "email": "durvankbhangale2017@gmail.com",
+      "company": "Self ",
+      "title": "Kid",
+      "groupId": "Family"
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "Friend"
+    },
+    {
+      "id": 2,
+      "name": "Family"
+    },
+    {
+      "id": 3,
+      "name": "Colleague"
+    },
+    {
+      "id": 4,
+      "name": "Social"
+    }
+  ]
+}
